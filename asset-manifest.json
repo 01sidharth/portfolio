@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/01sidharth/portfolio.git/static/css/main.f104e21c.css",
+    "main.js": "/01sidharth/portfolio.git/static/js/main.0e4efe32.js",
+    "static/media/about.JPEG": "/01sidharth/portfolio.git/static/media/about.e717810c36ee8464b426.JPEG",
+    "static/media/discord.jpg": "/01sidharth/portfolio.git/static/media/discord.18822f433d7aaad0f8f1.jpg",
+    "static/media/spotify.jpg": "/01sidharth/portfolio.git/static/media/spotify.4eec7c3e21cf8fd6a3cf.jpg",
+    "static/media/ecom.jpg": "/01sidharth/portfolio.git/static/media/ecom.43f6de06ee70fde8d957.jpg",
+    "static/media/profile.jpg.PNG": "/01sidharth/portfolio.git/static/media/profile.jpg.f7605532ab95353ff5aa.PNG",
+    "static/media/todo.jpg": "/01sidharth/portfolio.git/static/media/todo.52a4809dd28e291aa4bc.jpg",
+    "static/media/SIDHARTHKV.pdf": "/01sidharth/portfolio.git/static/media/SIDHARTHKV.2b14f20df87ad0b4d3d8.pdf",
+    "index.html": "/01sidharth/portfolio.git/index.html",
+    "main.f104e21c.css.map": "/01sidharth/portfolio.git/static/css/main.f104e21c.css.map",
+    "main.0e4efe32.js.map": "/01sidharth/portfolio.git/static/js/main.0e4efe32.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f104e21c.css",
+    "static/js/main.0e4efe32.js"
+  ]
+}
