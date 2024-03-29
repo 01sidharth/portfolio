@@ -16,7 +16,9 @@
     font-size: 1.25rem;
     color: var(--title-color);
 }
-
+.button:hover{
+    transform: scale(1.02);
+}
 .home__social-icon:hover{
     font-size: 1.25rem;
     color: var(--title-color-dark);

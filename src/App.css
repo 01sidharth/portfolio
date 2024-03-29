@@ -107,6 +107,9 @@ button {
   border: none;
   outline: none;
 }
+button:hover{
+  transform: scale(1.01);
+}
 
 img {
   max-width: 100%;
