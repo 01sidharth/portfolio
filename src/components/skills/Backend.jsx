@@ -10,7 +10,7 @@ const Backend = () => {
                     <i class='bx bx-badge-check'></i>
                     <div>
                         <h3 className="skills__name">C</h3>
-                        <span className="skills__level">Basics</span>
+                        <span className="skills__level">Intermediate</span>
                     </div>
                 </div>
 
